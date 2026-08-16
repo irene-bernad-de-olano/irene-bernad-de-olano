@@ -1,30 +1,30 @@
-# ¡Hola! Soy Irene Bernad de Olano 👋
+# Hi, I'm Irene Bernad de Olano 👋
 
-Ingeniera de Telecomunicaciones (Doble Grado con Comunicación Audiovisual, UPV) especializada en
-**IA y Deep Learning aplicados a sistemas autónomos e inspección industrial**, con base sólida en
-matemáticas, física y procesado de señal.
+Telecommunications Engineer (Dual Degree with Audiovisual Communication, UPV) with hands-on
+experience building **AI and Deep Learning for autonomous systems and industrial inspection**,
+backed by a solid foundation in mathematics, physics, and signal processing.
 
-Tinerfeña, actualmente en Valencia. Me apasiona la tecnología y la comunicación, y usar ambas para
-generar impacto positivo — combino proyectos de ingeniería con proyectos creativos/artísticos, y
-me gusta que se note.
+From Tenerife, currently based in Valencia. I'm passionate about technology and communication,
+and about using both to create positive impact — I combine engineering work with creative and
+artistic projects, and I like that it shows.
 
-- 🤖 Actualmente en **Ford Spain**, desarrollando aplicaciones de inspección autónoma sobre SPOT
-  (robot cuadrúpedo de Boston Dynamics) y una plataforma interna de MLOps en GCP.
-- 🎓 Doble Grado en Ingeniería de Telecomunicaciones y Comunicación Audiovisual (UPV, 2021–2026);
-  Erasmus+ en la Università degli Studi di Padova (2025–2026).
-- 🌱 Formada en el programa Huawei "Seeds for the Future" (5G, IA y Cloud Computing) y en el
-  Programa de Desarrollo de Liderazgo Femenino de EMPLEA UPV / IESE Business School.
-- 💬 Español (nativo), Inglés (C1), Italiano y Francés (básico).
+- 🤖 Currently at **Ford Spain**, building autonomous inspection applications on SPOT (Boston
+  Dynamics' quadruped robot) and an internal MLOps platform on GCP.
+- 🎓 Dual Degree in Telecommunications Engineering and Audiovisual Communication (UPV,
+  2021–2026); Erasmus+ exchange at the Università degli Studi di Padova (2025–2026).
+- 🌱 Trained through Huawei's "Seeds for the Future" program (5G, AI, and Cloud Computing) and
+  the Female Leadership Development Program by EMPLEA UPV / IESE Business School.
+- 💬 Spanish (native), English (C1), Italian and French (basic).
 
-## 🔗 Enlaces
+## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-bernad-de-olano-b33683270)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=wix&logoColor=white)](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irenebernaddeolano@gmail.com)
 
-## 🛠️ Stack técnico
+## 🛠️ Tech Stack
 
-**IA / Machine Learning**
+**AI / Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -32,7 +32,7 @@ me gusta que se note.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
 
-**Ingeniería de software**
+**Software Engineering**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -44,7 +44,7 @@ me gusta que se note.
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Telecom y redes**
+**Telecom & Networking**
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -52,63 +52,63 @@ me gusta que se note.
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C3E50?style=flat-square)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2C3E50?style=flat-square)
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-### Ingeniería
+### Engineering
 
 **Lane and Traffic Sign Detection**
-Visión por computador para detectar y clasificar carriles y señales de tráfico en imágenes/vídeo
-real; simula funciones centrales de un sistema ADAS.
+Computer vision system to detect and classify lanes and traffic signs in real images/video;
+simulates core functions of an ADAS system.
 `Python` `OpenCV`
-[Ver en el portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
-<!-- TODO: enlazar a github.com/irene-bernad-de-olano/<repo> en cuanto exista -->
+[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
+<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
 
 **Data Acquisition and Visualization (IoT)**
-Transmisión de datos de sensores desde Arduino vía The Things Network, con procesado y
-visualización en Python.
+Sensor data transmission from Arduino via The Things Network, with processing and visualization
+in Python.
 `Arduino` `LoRaWAN` `Python`
-[Ver en el portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
-<!-- TODO: enlazar a github.com/irene-bernad-de-olano/<repo> en cuanto exista -->
+[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
+<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
 
-**Sistema de gestión de base de datos para un bar**
-Diseño conceptual, lógico y físico de una base de datos; análisis de preferencias de clientes y
-desempeño operacional.
+**Bar Database Management System**
+Conceptual, logical, and physical database design; analysis of customer preferences and
+operational performance.
 `SQL` `JDBC` `DuckDB`
-[Ver en el portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
-<!-- TODO: enlazar a github.com/irene-bernad-de-olano/<repo> en cuanto exista -->
+[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
+<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
 
 **Spx for SPOT / Sentinel EU** — *Ford Spain*
-Plataforma de inspección autónoma sobre el robot cuadrúpedo SPOT (Boston Dynamics): pipelines de
-visión en tiempo real (YOLOv8, OpenCV) sobre hardware CORE I/O, y plataforma web en GCP para
-entrenamiento, empaquetado y aprobación de cumplimiento de modelos de IA.
+Autonomous inspection platform running on Boston Dynamics' SPOT quadruped robot: real-time
+vision pipelines (YOLOv8, OpenCV) on CORE I/O hardware, plus a GCP web platform for training,
+packaging, and compliance approval of AI models.
 `Python` `YOLOv8` `OpenCV` `gRPC` `Docker` `GCP`
-Repo próximamente (case study, sin código fuente — proyecto propiedad de Ford)
-<!-- TODO: enlazar a github.com/irene-bernad-de-olano/<repo> en cuanto exista -->
+Repo coming soon (case study, no source code — Ford-owned project)
+<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
 
-### Creatividad
+### Creative
 
 **Tech4Inclusion**
-Plataforma de formación digital y empleabilidad para menores migrantes no acompañados,
-desarrollada en el Programa de Desarrollo de Liderazgo Femenino (EMPLEA UPV / IESE Business
-School), en colaboración con Huawei. Nominada a premios.
-[Ver en el portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
-<!-- TODO: enlazar a github.com/irene-bernad-de-olano/<repo> en cuanto exista -->
+Digital training and employability platform for unaccompanied migrant minors, developed during
+the Female Leadership Development Program (EMPLEA UPV / IESE Business School), in collaboration
+with Huawei. Award-nominated.
+[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
+<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
 
 **Una Noche para Recordar**
-Cortometraje sobre violencia nocturna, seleccionado en el Festival Internacional de Cine y
-Derechos Humanos "Human Fest". Rol: directora y directora de fotografía.
-[Ver en el portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
-<!-- TODO: enlazar a github.com/irene-bernad-de-olano/<repo> en cuanto exista -->
+Short film about nighttime violence, selected at the "Human Fest" International Film and Human
+Rights Festival. Role: director and director of photography.
+[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
+<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
 
-## 🎓 Formación y experiencia
+## 🎓 Education & Experience
 
-**Formación:** Doble Grado en Ingeniería de Telecomunicaciones y Comunicación Audiovisual, UPV
-(2021–2026); Erasmus+ en la Università degli Studi di Padova, asignaturas de máster en ICT for
-Internet and Multimedia (2025–2026).
+**Education:** Dual Degree in Telecommunications Engineering and Audiovisual Communication, UPV
+(2021–2026); Erasmus+ exchange at the Università degli Studi di Padova, master's-level courses
+in ICT for Internet and Multimedia (2025–2026).
 
-**Experiencia:** Becaria de Ingeniería de IA, Software y Robótica en Ford Spain (Sistemas
-Industriales, Valencia, 2026), desarrollando aplicaciones de inspección autónoma sobre SPOT.
-Anteriormente, técnico de sistemas de iluminación interactiva (Gandía, 2024).
+**Experience:** AI, Software & Robotics Engineering Intern at Ford Spain (Industrial Systems,
+Valencia, 2026), building autonomous inspection applications on SPOT. Previously, interactive
+lighting systems technician (Gandía, 2024).
 
-Más detalle en el [CV](https://irenebernaddeolano.wixsite.com/irenebernadportfolio) o en
+More detail in my [CV](https://irenebernaddeolano.wixsite.com/irenebernadportfolio) or on
 [LinkedIn](https://www.linkedin.com/in/irene-bernad-de-olano-b33683270).
