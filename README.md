@@ -5,14 +5,14 @@ experience building **AI and Deep Learning for autonomous systems and industrial
 backed by a solid foundation in mathematics, physics, and signal processing.
 
 From Tenerife, currently based in Valencia. I'm passionate about technology and communication,
-and about using both to create positive impact — I combine engineering work with creative and
+and about using both to create positive impact. I combine engineering work with creative and
 artistic projects, and I like that it shows.
 
-- 🤖 Currently at **Ford Spain**, building autonomous inspection applications on SPOT (Boston
+- 🤖 Experience at **Ford Spain**, building autonomous inspection applications on SPOT (Boston
   Dynamics' quadruped robot) and an internal MLOps platform on GCP.
 - 🎓 Dual Degree in Telecommunications Engineering and Audiovisual Communication (UPV,
   2021–2026); Erasmus+ exchange at the Università degli Studi di Padova (2025–2026).
-- 🌱 Trained through Huawei's "Seeds for the Future" program (5G, AI, and Cloud Computing) and
+- 🌱 Trained through **Huawei's** "Seeds for the Future" program (5G, AI, and Cloud Computing) and
   the Female Leadership Development Program by EMPLEA UPV / IESE Business School.
 - 💬 Spanish (native), English (C1), Italian and French (basic).
 
