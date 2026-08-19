@@ -74,7 +74,7 @@ in Python.
 Conceptual, logical, and physical database design; analysis of customer preferences and
 operational performance.
 `SQL` `JDBC` `DuckDB`
-[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
+[View repository](https://github.com/irene-bernad-de-olano/Bar-Management-Database)
 <!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
 
 **Spx for SPOT / Sentinel EU** — *Ford Spain*
