@@ -54,36 +54,132 @@ artistic projects, and I like that it shows.
 
 ## 🚀 Featured Projects
 
-### Engineering
+### Software, AI & Data
 
-**Lane and Traffic Sign Detection**
-Computer vision system to detect and classify lanes and traffic signs in real images/video;
-simulates core functions of an ADAS system.
-`Python` `OpenCV`
-[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
-<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
-
-**Data Acquisition and Visualization (IoT)**
-Sensor data transmission from Arduino via The Things Network, with processing and visualization
-in Python.
-`Arduino` `LoRaWAN` `Python`
-[View on portfolio](https://irenebernaddeolano.wixsite.com/irenebernadportfolio)
-<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
-
-**Bar Database Management System**
-Conceptual, logical, and physical database design; analysis of customer preferences and
-operational performance.
-`SQL` `JDBC` `DuckDB`
-[View repository](https://github.com/irene-bernad-de-olano/Bar-Management-Database)
-<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
+<table>
+<tr>
+<td width="60%" valign="top">
 
 **Spx for SPOT / Sentinel EU** — *Ford Spain*
+
 Autonomous inspection platform running on Boston Dynamics' SPOT quadruped robot: real-time
 vision pipelines (YOLOv8, OpenCV) on CORE I/O hardware, plus a GCP web platform for training,
 packaging, and compliance approval of AI models.
+
 `Python` `YOLOv8` `OpenCV` `gRPC` `Docker` `GCP`
-Repo coming soon (case study, no source code — Ford-owned project)
+
+Case study coming soon (no source code — Ford-owned project)
+
+</td>
+<td width="40%" valign="top">
+<img src="media/spot-robot-quadruped-dog-onsale-buy.jpg" width="100%" alt="Boston Dynamics SPOT quadruped robot">
+</td>
+</tr>
+</table>
 <!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists -->
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Traffic Lane & Vehicle Detection**
+
+Computer vision system that detects the road lane from a dashboard camera and classifies nearby
+vehicles as left / right / ego lane; simulates core functions of an ADAS system, with a
+per-camera calibration trick to keep it fast on video.
+
+`Python` `OpenCV` `NumPy` `YOLO`
+
+[View repository](https://github.com/irene-bernad-de-olano/Traffic-support-Computer-Vision)
+
+</td>
+<td width="40%" valign="top">
+<video src="https://github.com/irene-bernad-de-olano/irene-bernad-de-olano/raw/main/media/cars-per-lane-demo.mp4" width="100%"></video>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**SpritzQL — Bar Management Database System**
+
+Relational database for a bar carried through the full lifecycle: requirements, ER model,
+logical schema, DuckDB SQL implementation, and a Java/JDBC client that queries it end to end.
+
+`SQL` `DuckDB` `Java` `JDBC` `Maven`
+
+[View repository](https://github.com/irene-bernad-de-olano/Bar-Management-Database)
+
+</td>
+<td width="40%" valign="top">
+<img src="media/relational-schema.jpeg" width="100%" alt="SpritzQL relational schema">
+</td>
+</tr>
+</table>
+
+### Electronics
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Empire Sound — Loudspeaker System**
+
+Two-way loudspeaker (woofer + tweeter) designed, built, measured and tuned from scratch inside a
+custom enclosure; anechoic-chamber characterization with a measured sensitivity of 101.5 dB.
+
+`ARTA` `LIMP` `STEPS` `Acoustics`
+
+[View repository](https://github.com/irene-bernad-de-olano/Empire-sound-Loudsystem)
+
+</td>
+<td width="40%" valign="top">
+<img src="media/anechoic_chamber.png" width="100%" alt="Loudspeaker under test in the anechoic chamber">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**PCB Equalizer Filter**
+
+Analog peak/shelving audio filter with configurable gain and center frequency: theoretical
+design, PSpice simulation, EAGLE PCB layout, fabrication and lab validation against theory.
+
+`Analog Electronics` `PSpice` `EAGLE`
+
+[View repository](https://github.com/irene-bernad-de-olano/PCB-equalizer-filter)
+
+</td>
+<td width="40%" valign="top">
+<img src="media/fig9_pcb_autorouter.png" width="100%" alt="PCB layout after autorouting in EAGLE">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+Bidirectional Serial Link — PIC16F877 Warehouse Alarm Panel**
+Bare-metal C for a PIC16F877: interrupt-driven full-duplex UART (2400 baud) between the
+microcontroller and a PC. The MCU reports which of 8 warehouse doors is open; the PC streams
+the time back as framed 4-byte packets, shown on a Timer0-multiplexed 4-digit display.
+Verified in Proteus.
+`C` `PIC` `UART / RS-232` `Proteus` `MPLAB`
+Repo coming soon
+</td>
+<td width="40%" valign="top">
+<img src="media/fpga.jpeg" width="100%">
+</td>
+</tr>
+</table>
+
+
+<!-- TODO: link to github.com/irene-bernad-de-olano/<repo> once it exists (FPGA/ folder — misnamed, it's a PIC microcontroller project) -->
 
 ### Creative
 
