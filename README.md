@@ -14,6 +14,9 @@ artistic projects, and I like that it shows.
   2021–2026); Erasmus+ exchange at the Università degli Studi di Padova (2025–2026).
 - 🌱 Trained through **Huawei's** "Seeds for the Future" program (5G, AI, and Cloud Computing) and
   the Female Leadership Development Program by EMPLEA UPV / IESE Business School.
+- 🦾 **ROS2 Summer School** at FH Aachen (2026): intensive training in teleoperation, image
+  processing and LLM-based control across different robots, plus the development of a project
+  on a real autonomous-navigation robot (iRobot Create3).
 - 💬 Spanish (native), English (C1), Italian and French (basic).
 
 ## 🔗 Links
@@ -31,6 +34,13 @@ artistic projects, and I like that it shows.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
+
+**Robotics**
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat-square)
+![SLAM](https://img.shields.io/badge/SLAM-22314E?style=flat-square)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square)
 
 **Software Engineering**
 
@@ -82,6 +92,28 @@ Case study coming soon (no source code — Ford-owned project)
 <tr>
 <td width="60%" valign="top">
 
+**ROS2 Autonomous Room Explorer** — *ROS2 Summer School, FH Aachen*
+
+ROS2 system for an iRobot Create3 that maps an arena with SLAM, localizes itself with AMCL and
+navigates to goals with Nav2. It can be driven by gamepad, by spoken movement commands
+(Whisper + an LLM) and by hand gestures recognized with a custom-trained YOLOv8 model. Built in a
+team of two and run on the real robot.
+
+`ROS2` `Nav2` `SLAM Toolbox` `YOLOv8` `Whisper` `Python`
+
+[View repository](https://github.com/irene-bernad-de-olano/ROS2-Autonomous-Room-Explorer)
+
+</td>
+<td width="40%" valign="top">
+<img src="https://github.com/irene-bernad-de-olano/ROS2-Autonomous-Room-Explorer/raw/main/media/nav2-map.gif" width="100%" alt="Nav2 goal set in RViz and the Create3 robot driving to it">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
 **Traffic Lane & Vehicle Detection**
 
 Computer vision system that detects the road lane from a dashboard camera and classifies nearby
@@ -94,7 +126,7 @@ per-camera calibration trick to keep it fast on video.
 
 </td>
 <td width="40%" valign="top">
-<video src="https://github.com/irene-bernad-de-olano/irene-bernad-de-olano/raw/main/media/cars-per-lane-demo.mp4" width="100%"></video>
+<img src="https://github.com/irene-bernad-de-olano/irene-bernad-de-olano/raw/main/media/cars-per-lane-demo.gif" width="100%"></img>
 </td>
 </tr>
 </table>
@@ -164,16 +196,21 @@ design, PSpice simulation, EAGLE PCB layout, fabrication and lab validation agai
 <table>
 <tr>
 <td width="60%" valign="top">
-Bidirectional Serial Link — PIC16F877 Warehouse Alarm Panel**
+
+**Bidirectional Serial Link — PIC16F877 Warehouse Alarm Panel**
+
 Bare-metal C for a PIC16F877: interrupt-driven full-duplex UART (2400 baud) between the
 microcontroller and a PC. The MCU reports which of 8 warehouse doors is open; the PC streams
 the time back as framed 4-byte packets, shown on a Timer0-multiplexed 4-digit display.
 Verified in Proteus.
+
 `C` `PIC` `UART / RS-232` `Proteus` `MPLAB`
+
 Repo coming soon
+
 </td>
 <td width="40%" valign="top">
-<img src="media/fpga.jpeg" width="100%">
+<img src="media/fpga.jpeg" width="100%" alt="PIC16F877 warehouse alarm panel simulation in Proteus">
 </td>
 </tr>
 </table>
