@@ -78,7 +78,7 @@ packaging, and compliance approval of AI models.
 
 `Python` `YOLOv8` `OpenCV` `gRPC` `Docker` `GCP`
 
-Case study coming soon (no source code — Ford-owned project)
+No source code — Ford-owned project
 
 </td>
 <td width="40%" valign="top">
